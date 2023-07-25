@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "babelsite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
+
+babelquarto:
+  mainlanguage: 'en'
+  languages: ['fr']
+title-fr: title in fr
+description-fr: description in fr
+author-fr: author in fr
+lang: en

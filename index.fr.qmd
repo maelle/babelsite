@@ -1,0 +1,11 @@
+---
+title: "babelsite"
+---
+
+Ceci est un site Quarto.
+
+Pour en savoir plus sur les sites Quarto, consultez <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
