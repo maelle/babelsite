@@ -20,6 +20,11 @@ format:
 
 
 babelquarto:
+  languagecodes:
+  - name: fr
+    text: "Causons français"
+  - name: en
+    text: "Version in Shakespeare's language"
   mainlanguage: 'en'
   languages: ['fr']
 title-fr: title in fr
