@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.fr.html",
-    "href": "index.fr.html",
-    "title": "babelsite",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Ceci est un site Quarto.\nPour en savoir plus sur les sites Quarto, consultez https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.fr.html",
-    "href": "about.fr.html",
-    "title": "À propos",
-    "section": "",
-    "text": "À propos de ce site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
@@ -19,12 +12,5 @@
     "title": "babelsite",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
