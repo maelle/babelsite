@@ -2,7 +2,7 @@
 title: "babelsite"
 ---
 
-This is a Quarto website.
+This is a Quarto website rendered with <https://github.com/ropensci-review-tools/babelquarto>.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
