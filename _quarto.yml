@@ -4,6 +4,8 @@ project:
 
 website:
   site-url: https://maelle.github.io/babelsite/
+  repo-url: https://github.com/maelle/babelsite
+  repo-actions: [edit, issue]
   title: "babelsite"
   navbar:
     left:
@@ -24,7 +26,7 @@ babelquarto:
   - name: fr
     text: "Causons français"
   - name: en
-    text: "Version in Shakespeare's language"
+    text: "Shakespeare's language"
   mainlanguage: 'en'
   languages: ['fr']
 title-fr: title in fr
