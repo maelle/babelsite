@@ -1,5 +1,7 @@
 ---
 title: "babelsite"
+aliases: 
+- /fr/
 ---
 
 Ceci est un site Quarto.
